@@ -1,0 +1,6 @@
+{
+  "name": "Lusalos",
+  "description": "Lusalos ? Laro ng Lahi: An offline Filipino strategy board game with local AI, pass-and-play, and SQLite profile and progress storage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}

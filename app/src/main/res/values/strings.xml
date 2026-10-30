@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lusalos</string>
+    <string name="splash_title">STRATEGY BOARD GAME</string>
+    <string name="splash_subtitle">Form a line of three. Capture pieces.</string>
+    <string name="game_title">Lusalos</string>
+    <string name="tagline">Nine Men\'s Morris Strategy</string>
+</resources>
